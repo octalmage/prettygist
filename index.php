@@ -34,6 +34,6 @@ if ($_GET['id'])
 }
 else
 {
-	echo "Use /id to display gist.";
+	echo "Use /:id to display gist.";
 }
 ?>
